@@ -17,10 +17,10 @@ app.get("/", (req, res) => {
           flex-direction:column;
         ">
           <h1 style="font-size:40px; color:#ccc; margin:0;">
-            CI/CD WORKING nows here
+            CI/CD WORKING
           </h1>
           <p style="font-size:20px; opacity:.8;">
-            Hazem Amayreh
+            Hazem Amayreh ppu 
           </p>
         </div>
       </body>
