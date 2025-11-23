@@ -22,6 +22,6 @@ jobs:
         run: |
           railway up \
             --project fe38dcf8-a803-4c26-908c-0441760752f1 \
-            --environment cb981cd8-0493-46e8-b0d8-ef0ace760eeb \
-            --service b4ae5cfd-448b-4300-b403-e89ed5b1bea0?environmentId \
+            --environment b9a0d97d-e18d-452c-9245-6fc7bb950c54 \
+            --service b4ae5cfd-448b-4300-b403-e89ed5b1bea0 \
           
